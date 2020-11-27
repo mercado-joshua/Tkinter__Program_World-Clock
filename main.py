@@ -53,7 +53,7 @@ class App(tk.Tk):
 
 def main():
     world_clock = App()
-    world_clock.title('World Clock')
+    world_clock.title('World Clock Version 1.0')
     world_clock.style.theme_use('clam')
     world_clock.mainloop()
 
